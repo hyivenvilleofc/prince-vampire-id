@@ -45,15 +45,15 @@
   <h1>Kartu Kependudukan Hyivenville</h1>
 
   <div class="card">
-    <img src="https://i.imgur.com/WVH5l0W.png" alt="Kartu Hyivenville 1">
+    <img src="https://i.imgur.com/PgLDSD2.png" alt="Kartu Hyivenville 1">
     <br>
-    <a href="https://i.imgur.com/WVH5l0W.png" download class="download-btn">Download Kartu 1 (Foto)</a>
+    <a href="https://i.imgur.com/PgLDSD2.png" download class="download-btn">Download Kartu 1 (Foto)</a>
   </div>
 
   <div class="card">
-    <img src="https://i.imgur.com/WnjpMRw.png" alt="Kartu Hyivenville 2">
+    <img src="https://i.imgur.com/8g2J5sR.png" alt="Kartu Hyivenville 2">
     <br>
-    <a href="https://i.imgur.com/WnjpMRw.png" download class="download-btn">Download Kartu 2 (Identitas)</a>
+    <a href="https://i.imgur.com/8g2J5sR.png" download class="download-btn">Download Kartu 2 (Identitas)</a>
   </div>
 
 </body>
