@@ -36,7 +36,7 @@
       transition: background 0.3s;
     }
     .download-btn:hover {
-      background-color: darkred;
+      background-color: darkgreen;
     }
   </style>
 </head>
@@ -45,15 +45,15 @@
   <h1>Kartu Kependudukan Hyivenville</h1>
 
   <div class="card">
-    <img src="https://i.imgur.com/PgLDSD2.png" alt="Kartu Hyivenville 1">
+    <img src="https://i.imgur.com/BZ7lV5Z.png" alt="Kartu Hyivenville 1">
     <br>
-    <a href="https://i.imgur.com/PgLDSD2.png" download class="download-btn">Download Kartu 1 (Foto)</a>
+    <a href="https://i.imgur.com/BZ7lV5Z.png" download class="download-btn">Download Kartu 1 (Foto)</a>
   </div>
 
   <div class="card">
-    <img src="https://i.imgur.com/8g2J5sR.png" alt="Kartu Hyivenville 2">
+    <img src="https://i.imgur.com/rZ5hdpa.png" alt="Kartu Hyivenville 2">
     <br>
-    <a href="https://i.imgur.com/8g2J5sR.png" download class="download-btn">Download Kartu 2 (Identitas)</a>
+    <a href="https://i.imgur.com/rZ5hdpa.png" download class="download-btn">Download Kartu 2 (Identitas)</a>
   </div>
 
 </body>
